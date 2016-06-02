@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;riddlermn.RiddleMN&apos; to &apos;RiddlerMN&apos;&#x0D;&#x0A;- Original project: &apos;RiddlerMN&apos;&#x0D;&#x0A;- Original element: &apos;riddlermn.RiddleMN&apos;&#x0D;&#x0A;- Renamed element: &apos;riddlermn.RiddlerMN&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RiddleMN&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;riddlermn{RiddleMN.java[RiddleMN" matchStrategy="1" name="RiddlerMN" qualified="false" references="true" similarDeclarations="false" stamp="1461701627606" textual="false" version="1.0"/>
-</session>
